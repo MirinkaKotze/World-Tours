@@ -1,2 +1,2 @@
 # World-Tours
-Beetroot Academy Lesson 02
+Beetroot Academy - Lesson 02
