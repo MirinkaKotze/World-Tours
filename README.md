@@ -1,6 +1,8 @@
 # World-Tours
 Beetroot Academy - Lesson 02
 
+Live Page URL: https://mirinkakotze.github.io/World-Tours/
+
 Create a table with different items.
 
 Each item should have a image, link to a youtube video, input fields, a button and a slider.
